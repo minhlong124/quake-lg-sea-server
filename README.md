@@ -22,9 +22,11 @@ Designed for Thunderstruck LG practice with fast rotations and minimal interrupt
 
 ## Directory Structure
 
+```
 qlserver/
- └ baseq3/
-   └ scripts/
+└─ baseq3/
+   └─ scripts/
+```
 
 Place the configuration files in the appropriate directories.
 
