@@ -2,7 +2,7 @@
 
 Custom configuration for a Vampiric LG / Shaft duel practice server for Quake Live.
 
-Designed for Thunderstruck LG practice with fast rotations and minimal interruptions.
+Designed for LG / Shaft practice with fast rotations and minimal interruptions.
 
 ## Features
 
