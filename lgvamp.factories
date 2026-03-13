@@ -11,7 +11,7 @@
 "g_startingArmor": "0",
 
 "g_infiniteAmmo": "1",
-"g_vampiricDamage": "0.75",
+"g_vampiricDamage": "1",
   
 "g_knockback": "0",
 "pmove_DoubleJump":"1",
