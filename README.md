@@ -49,7 +49,7 @@ screen -r <session>
 
 ## Example Connect Command
 
-/connect <server-ip>:27960
+/connect (server-ip):27960
 
 ## Notes
 
