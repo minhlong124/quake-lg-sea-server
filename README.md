@@ -21,7 +21,7 @@ This project documents a working Quake Live LG duel server configuration origina
 ## Requirements
 
 - Linux VPS
-- SteamCMD
+- [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD)
 - Quake Live Dedicated Server
 - GNU Screen
 - Open UDP port: **27960**
@@ -64,6 +64,9 @@ screen -r <session>
 ```
 /connect (server-ip):27960
 ```
+
+
 ## Notes
 
-This configuration is intended for Thunderstruck duel rotations where players queue and rotate after each fight.
+- This configuration is intended for Thunderstruck duel rotations where players queue and rotate after each fight.
+- For Windows Servers, I highly recommend you to see [this guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1410490276)
