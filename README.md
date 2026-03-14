@@ -9,14 +9,14 @@ Designed for LG / Shaft practice with fast rotations and minimal interruptions.
 This project documents a working Quake Live LG duel server configuration originally designed for SEA players, but usable in any region.
 
 ## Features
-
+- Designed for SEA duel practice
 - Lightning Gun / Shaft only
 - Vampiric healing (100%)
 - No knockback
 - Thunderstruck map
-- [Antilag tuned for ~40–200ms players](antilagsettings.md)
 - Voting disabled
-- Designed for SEA duel practice
+- [Antilag tuned for ~40–200ms players](antilagsettings.md)
+- [Automatic Daily Restarts](dailyrestart.md)
 
 ## Requirements
 
