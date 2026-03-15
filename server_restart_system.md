@@ -89,5 +89,6 @@ Check ports
 ss -ulpn | grep 279
 ```
 Kill stuck servers
-
+```
 pkill qzeroded
+```
