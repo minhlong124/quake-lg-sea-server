@@ -55,7 +55,7 @@ sleep 2
 screen -dmS qlserver /root/qlserver/start_server.sh
 ```
 
-Cron Job
+## Cron Job
 
 Check cron jobs:
 ```
