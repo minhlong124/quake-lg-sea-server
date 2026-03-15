@@ -4,15 +4,15 @@ This server uses a cron job + restart script + loop script to keep the server ru
 
 ## Overview
 cron (daily restart)
-        ↓
+->
 restart.sh
-        ↓
+->
 screen session
-        ↓
+->
 start_server.sh
-        ↓
+->
 run_server_x64.sh
-        ↓
+->
 qzeroded
 
 The loop script restarts the server if it crashes.
