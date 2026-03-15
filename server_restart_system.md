@@ -74,7 +74,7 @@ Add this line after `crontab -e`:
 
 This restarts the server every day at 05:00.
 
-Useful Commands
+## Useful Commands
 
 Check running screen sessions
 ```
